@@ -58,3 +58,19 @@ button{
                          5px 5px 12px rgba(0, 0, 0, 0.16);;
 
 }
+.box1{
+    border: none;
+    height: 40px;
+    width: 400px;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 400px;
+    border-radius: 50px;
+    padding: 35px;
+    box-shadow: -5px -5px 12px #ffffff,
+    5px 5px 12px rgba(0, 0, 0, 0.16);
+}
